@@ -79,7 +79,7 @@ public class HotelSeachTest extends BaseTest {
 
     @AfterTest
     public void cleanUp(){
-    //    closeDriver();
+        closeDriver();
     }
 
 }
