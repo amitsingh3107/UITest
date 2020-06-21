@@ -1,0 +1,13 @@
+
+osquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(õ¸•ô˙ˇˇˇˇ8≤üüπ≠.
+Gsquid:S1905Z")Remove this unnecessary cast to "Action".(á‹èŸ8ç£Õ≠≠.
+Gsquid:S1148á"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ8ŒâÅ∫≠.
+isquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(∏Ãº©8˜“ó∞≠.
+isquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(Æœ⁄É8€µÅ∫≠.
+bsquid:CallToDeprecatedMethod="3Remove this use of "withTimeout"; it is deprecated.(˚éŒﬁ8Â÷à≠≠.
+å"squid:ClassVariableVisibilityCheck"RMake driver a static final constant or non-public and provide accessors if needed.(‘ËÀ©˙ˇˇˇˇ8ıèªç≠.
+bsquid:CallToDeprecatedMethodG"3Remove this use of "withTimeout"; it is deprecated.(˚éŒﬁ8Â÷à≠≠.
+esquid:S2142Ü"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8ŒâÅ∫≠.
+csquid:CallToDeprecatedMethodH"4Remove this use of "pollingEvery"; it is deprecated.(üªπä8Â÷à≠≠.
+Nsquid:S1172P"+Remove this unused method parameter "from".(¡ı«ﬁˇˇˇˇˇ8ÍÑê∞≠.
+csquid:CallToDeprecatedMethod>"4Remove this use of "pollingEvery"; it is deprecated.(üªπä8Â÷à≠≠.

@@ -1,0 +1,12 @@
+{
+  "seachHotel": {"cases":[
+  {
+    "location": "London, United Kingdom",
+    "checkInDate": 3,
+    "checkOutDate": 2,
+    "guestRatingSlideFrom": 0,
+    "guestRatingSlideTo": 8
+  }
+]
+}
+}

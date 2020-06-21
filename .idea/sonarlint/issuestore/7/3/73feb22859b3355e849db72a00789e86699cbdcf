@@ -1,0 +1,8 @@
+
+“"squid:SwitchLastCaseIsDefaultCheck,"YComplete cases by adding the missing enum constants or add a default case to this switch.(—µÃ¾ûÿÿÿÿ8÷‘ª­.
+"squid:SwitchLastCaseIsDefaultCheck5"YComplete cases by adding the missing enum constants or add a default case to this switch.(³Ñµ¾8¨•éª­.
+isquid:S13015"KReplace this "switch" statement by "if" statements to increase readability.(³Ñµ¾8¨•éª­.
+nsquid:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(—µÃ¾ûÿÿÿÿ8÷‘ª­.
+osquid:UselessImportCheck	"DRemove this unused import 'org.openqa.selenium.interactions.Action'.(›ó8Ğ¾¬™­.
+psquid:UselessImportCheck
+"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ8Ğ¾¬™­.
